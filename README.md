@@ -4,6 +4,8 @@ Script that sorts a folder depending on the files extension.
 
 ## Exemple
 
+<pre>
+
 📁 Folder
 |____________ image1.png
 |____________ image2.png
@@ -16,8 +18,9 @@ becomes :
 |____________ 📁 png
               |__________ image1.png
               |__________ image2.png
-|____________ 📁 js
+|____________ 📁 js <br />
               |__________ script.js
 |____________ 📁 mp4
               |__________ video.mp4
 
+</pre>
